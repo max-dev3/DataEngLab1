@@ -61,5 +61,7 @@ docker compose stop
 ### 12. Повне видалення контейнерів
 ```sh
 docker compose down
+```
+
 ![image](https://github.com/user-attachments/assets/5487cb67-afbc-410e-a8e2-4527afc6f1d0)
 
